@@ -1,0 +1,81 @@
+Non-Disclosure Agreement (NDA)
+Effective Date: November 20, 2024
+This Non-Disclosure Agreement (the "Agreement") is entered into by and between Firecourt Corp, a company based in New York, USA ("Disclosing Party"), and the individual or entity (the "Receiving Party") receiving confidential information. The purpose of this Agreement is to protect the confidential and proprietary information exchanged between the parties during the course of their professional relationship.
+________________________________________
+1. Definition of Confidential Information
+For purposes of this Agreement, "Confidential Information" shall include, but is not limited to:
+•	Proprietary information such as product designs, business plans, strategies, financial information, trade secrets, customer data, software code, formulas, inventions, and other intellectual property.
+•	Oral or written information disclosed by the Disclosing Party to the Receiving Party that is marked or otherwise identified as confidential or proprietary.
+•	Business and operational information that is not generally known or available to the public, including research, development, marketing plans, and customer lists.
+•	Any other information that the Disclosing Party designates as confidential in writing at the time of disclosure.
+Confidential Information does not include information that:
+•	Was already known to the Receiving Party before disclosure by the Disclosing Party.
+•	Becomes publicly available through no fault of the Receiving Party.
+•	Is received by the Receiving Party from a third party who is not in breach of any confidentiality obligation.
+•	Is independently developed by the Receiving Party without use of or reference to the Disclosing Party’s Confidential Information.
+________________________________________
+2. Obligations of the Receiving Party
+The Receiving Party agrees to the following obligations regarding the Confidential Information:
+•	Non-Disclosure: The Receiving Party shall not disclose the Confidential Information to any third party, except as expressly permitted in writing by the Disclosing Party or required by law.
+•	Use of Confidential Information: The Receiving Party shall only use the Confidential Information for the purpose of the relationship or collaboration with the Disclosing Party. The Receiving Party shall not use the Confidential Information for any other purpose.
+•	Protection of Confidential Information: The Receiving Party agrees to take reasonable precautions to protect the Confidential Information from unauthorized access, use, or disclosure, at least equivalent to the precautions the Receiving Party takes to protect its own confidential information.
+•	Limitation on Copies: The Receiving Party shall not make copies of the Confidential Information unless necessary for the purpose of the relationship or collaboration, and any copies shall be treated as Confidential Information.
+•	No Rights Granted: The disclosure of Confidential Information does not grant the Receiving Party any rights, title, or interest in the Confidential Information, except for the limited right to use the information as necessary for the specific purpose of the relationship or collaboration.
+________________________________________
+3. Disclosure to Employees, Contractors, and Affiliates
+The Receiving Party may disclose Confidential Information to its employees, contractors, or affiliates (collectively, "Representatives") who have a legitimate need to know the information for the purpose of the relationship. The Receiving Party shall ensure that all Representatives are bound by confidentiality obligations no less restrictive than those in this Agreement.
+________________________________________
+4. Return of Confidential Information
+Upon termination of the relationship or at the request of the Disclosing Party, the Receiving Party shall return or destroy all copies of the Confidential Information. The Receiving Party shall certify in writing that all such information has been returned or destroyed, as applicable.
+________________________________________
+5. Duration of Confidentiality Obligation
+The Receiving Party’s obligation to maintain the confidentiality of the Confidential Information shall continue for a period of five (5) years following the date of disclosure, except with respect to any Confidential Information that remains a trade secret under applicable law, in which case the confidentiality obligation shall continue indefinitely.
+________________________________________
+6. No License or Ownership Rights
+Nothing in this Agreement shall be construed as granting the Receiving Party any license or ownership rights in the Confidential Information. The Disclosing Party retains all rights, title, and interest in and to the Confidential Information.
+________________________________________
+7. Legal Compliance and Disclosure
+If the Receiving Party is compelled by law, regulation, or legal process (such as a subpoena) to disclose any of the Confidential Information, the Receiving Party must provide the Disclosing Party with prompt written notice so that the Disclosing Party may seek a protective order or other appropriate remedy. If the Disclosing Party is unable to obtain such a protective order, the Receiving Party may disclose the Confidential Information as required by law, provided that only the minimum necessary portion of the Confidential Information is disclosed.
+________________________________________
+8. No Obligation to Proceed
+This Agreement does not obligate either party to proceed with any proposed transaction, collaboration, or relationship. Either party may terminate discussions at any time without incurring any liability.
+________________________________________
+9. No Warranty
+The Disclosing Party makes no representations or warranties regarding the accuracy or completeness of the Confidential Information. The Receiving Party acknowledges that it will rely on the Confidential Information at its own risk.
+________________________________________
+10. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the state of New York, without regard to its conflict of laws principles.
+________________________________________
+11. Remedies for Breach
+The Receiving Party acknowledges that any unauthorized use or disclosure of the Confidential Information may result in irreparable harm to the Disclosing Party. In the event of such a breach, the Disclosing Party shall be entitled to seek equitable relief, including injunctive relief, in addition to any other legal remedies available.
+________________________________________
+12. Entire Agreement
+This Agreement constitutes the entire understanding between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, or representations. Any amendments to this Agreement must be made in writing and executed by both parties.
+________________________________________
+13. Severability
+If any provision of this Agreement is found to be invalid or unenforceable, the remainder of the Agreement shall remain in full force and effect, and the invalid or unenforceable provision will be modified to the extent necessary to make it enforceable.
+________________________________________
+14. Acknowledgment and Acceptance
+By signing below, the Receiving Party acknowledges that they have read and understood the terms of this Non-Disclosure Agreement and agree to be bound by its terms.
+________________________________________
+Disclosing Party:
+Firecourt Corp
+136 W 73rd St, New York, NY 10023, USA
+Email: firecourt.corp.official@gmail.com
+Phone: +7 747 936 8552
+Signature: __________________________
+Name: ____________________________
+Title: ____________________________
+Date: _____________________________
+________________________________________
+Receiving Party:
+Name: _______________________________
+Title: ________________________________
+Company: ____________________________
+Email: ______________________________
+Phone: _______________________________
+Signature: __________________________
+Date: _____________________________
+________________________________________
+By signing this Agreement, both parties acknowledge and accept the terms outlined above.
+
