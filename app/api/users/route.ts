@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
 import { hash } from 'bcrypt';
+import { sendVerificationEmail } from '@/lib/email'; // Import the email utility
 
 export async function POST(request: Request) {
   try {
@@ -14,11 +15,9 @@ export async function POST(request: Request) {
       );
     }
 
-    console.log('Checking for existing user...');
+    // Check for existing user
     const existingUser = await prisma.user.findUnique({
-      where: {
-        email: email,
-      },
+      where: { email: email },
     });
 
     if (existingUser) {
@@ -28,48 +27,37 @@ export async function POST(request: Request) {
       );
     }
 
-    console.log('Hashing password...');
+    // Hash password
     const hashedPassword = await hash(password, 10);
 
-    console.log('Creating user...');
+    // Generate a random verification token
+    const verificationToken = Math.random().toString(36).substring(2); // Simple random token generator, replace with a more secure method
+
+    // Create the user
     const user = await prisma.user.create({
       data: {
         email,
         name,
         password: hashedPassword,
+        emailVerified: null, // Initially set to false
+         // Store the verification token
       },
     });
 
-    console.log('User created successfully');
-    const { password: _, ...userWithoutPassword } = user;
-    
+    // Generate the verification URL
+    const verificationUrl = `${process.env.BASE_URL}/api/verify-email?token=${verificationToken}`;
+
+    // Send verification email
+    await sendVerificationEmail(email, verificationUrl);
+
+    // Return user data without password
+    const { password: _,  ...userWithoutPassword } = user;
+
     return NextResponse.json(userWithoutPassword);
   } catch (error) {
-    console.error('Error in user creation:', error);
     return NextResponse.json(
       { error: error instanceof Error ? error.message : 'Error creating user' },
       { status: 500 }
     );
   }
 }
-
-export async function GET() {
-  try {
-    const users = await prisma.user.findMany({
-      select: {
-        id: true,
-        name: true,
-        email: true,
-        image: true,
-        createdAt: true,
-      },
-    });
-    
-    return NextResponse.json(users);
-  } catch (error) {
-    return NextResponse.json(
-      { error: 'Error fetching users' },
-      { status: 500 }
-    );
-  }
-} 

@@ -35,8 +35,7 @@ export async function GET(request: Request) {
 
     const userData = await userResponse.json();
 
-    // Здесь можно создать сессию пользователя
-    // и сохранить информацию в базе данных
+    
 
     return NextResponse.redirect('/dashboard');
   } catch (error) {
